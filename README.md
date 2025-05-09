@@ -1,4 +1,5 @@
 📝 Simple To-Do List App
+
 A clean and responsive To-Do List web application built with HTML, CSS, and JavaScript. Users can add tasks, mark them as done, and interact with a minimal, light-green themed interface.
 
 🚀 Features
@@ -36,3 +37,7 @@ HTML5 – Structure
 CSS3 – Styling and layout
 
 JavaScript (Vanilla) – Interactivity
+
+📄 License
+This project is open-source and available under the MIT License.
+Feel free to follow, fork, and ⭐️ the repo if you found it helpful!
